@@ -11,4 +11,4 @@ run the following command :
 pip install pygame.
 ```
 
-Note : Make sure you activated your virtual environment.
+Note : Make sure your virtual environment is activated.
